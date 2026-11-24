@@ -1,5 +1,5 @@
 // # @BeforeMethod / @AfterMethod (open/quit browser)
-package test.java.com.amazon.base;
+package com.amazon.base;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
