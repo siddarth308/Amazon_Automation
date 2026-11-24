@@ -1,0 +1,7 @@
+# Created at 2026-11-24T16:44:33.526
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[0.018s][warning][cds] This file is not the one used while building the shared archive file: 'C:\Users\Asus\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\latest\lib\modules', size has changed'.
+
+# Created at 2026-11-24T16:44:33.747
+
+Cannot find class in classpath: com.amazon.tests.IphoneTestSearch
+
